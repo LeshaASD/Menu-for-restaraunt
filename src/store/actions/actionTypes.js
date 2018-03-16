@@ -1,0 +1,8 @@
+export const ADD_DISH = 'ADD_DISH';
+export const DELETE_DISH = 'DELETE_DISH';
+export const PLACE_ORDER = 'PLACE_ORDER';
+export const CLOSE_FORM = 'CLOSE_FORM';
+
+export const FETCH_DISH_REQUEST = 'FETCH_DISH_REQUEST';
+export const FETCH_DISH_SUCCESS = 'FETCH_DISH_SUCCESS';
+export const FETCH_DISH_FAILURE = 'FETCH_DISH_FAILURE';

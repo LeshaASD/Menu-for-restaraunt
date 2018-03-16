@@ -1,0 +1,15 @@
+.menu {
+    width: 100%;
+}
+
+.menu h1 {
+    margin: 5px;
+}
+
+.row {
+    display: inline-flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 10px 3%;
+}
